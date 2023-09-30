@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{44303991-7DC7-462C-B661-15E3F86E7D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{B8CD4867-BE1F-4039-9AB8-846F93265342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion", "Aplicacion\Aplicacion.csproj", "{F7AD9539-5842-49BC-A1BC-8BC04EE79625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webFeICellMAster", "webFeICellMaster\webFeICellMAster.csproj", "{5EDFBD59-8199-4829-B2AA-4A6EF99B335F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44303991-7DC7-462C-B661-15E3F86E7D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44303991-7DC7-462C-B661-15E3F86E7D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44303991-7DC7-462C-B661-15E3F86E7D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44303991-7DC7-462C-B661-15E3F86E7D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CD4867-BE1F-4039-9AB8-846F93265342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CD4867-BE1F-4039-9AB8-846F93265342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CD4867-BE1F-4039-9AB8-846F93265342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CD4867-BE1F-4039-9AB8-846F93265342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AD9539-5842-49BC-A1BC-8BC04EE79625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AD9539-5842-49BC-A1BC-8BC04EE79625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AD9539-5842-49BC-A1BC-8BC04EE79625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AD9539-5842-49BC-A1BC-8BC04EE79625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDFBD59-8199-4829-B2AA-4A6EF99B335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDFBD59-8199-4829-B2AA-4A6EF99B335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDFBD59-8199-4829-B2AA-4A6EF99B335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDFBD59-8199-4829-B2AA-4A6EF99B335F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
